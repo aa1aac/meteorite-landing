@@ -1,0 +1,18 @@
+{
+  "name": "meteriorite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aa1aac",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "jQuery": "^1.7.4",
+    "jsdom": "^15.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
